@@ -1,0 +1,5 @@
+Veckot; 200; 150.0; 2020-12-01; false
+Veckot; 200; 150.0; 2020-12-01; false
+Veckot; 200; 150.0; 2020-12-01; false
+Veckot; 200; 150.0; 2020-12-01; false
+Veckot; 200; 150.0; 2020-12-01; false
